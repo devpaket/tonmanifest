@@ -2,4 +2,5 @@
     "url": "https://ton.vote",
     "name": "TON Paket",
     "iconUrl": "https://ton.vote/logo.png"
+    "network": "testnet"
 }
